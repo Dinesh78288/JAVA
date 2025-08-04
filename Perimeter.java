@@ -9,7 +9,6 @@ public class Perimeter {
         double b = input.nextDouble();
         double c = input.nextDouble();
         double d = input.nextDouble();
-
         double Perimeter = a + b + c + d ;
         System.out.println("Perimeter of your ractangle " + Perimeter +"CM");
     }
